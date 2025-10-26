@@ -1,5 +1,4 @@
 # Lab-3
-## 🌀 beaufort.c
 
 ### Opis
 Beaufort:
